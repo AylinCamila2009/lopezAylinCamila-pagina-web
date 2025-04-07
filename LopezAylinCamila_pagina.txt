@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>La basura como un problema</title>
+  <style>
+    body {
+      background-image: url('fondo.jpg'); /*fondo.jpg*/
+      background-size: cover;
+      font-family: Arial, sans-serif;
+      color: white;
+      padding: 20px;
+    }
+
+    h1 {
+      color: #00ffcc;
+      font-size: 36px;
+      text-align: center;
+    }
+
+    h2 {
+      color: #ffcc00;
+      font-size: 28px;
+      margin-top: 40px;
+    }
+
+    p {
+      font-size: 18px;
+      color: #f0f0f0;
+      font-family: 'Courier New', Courier, monospace;
+      font-style: italic;
+      background-color: rgba(0, 0, 0, 0.5);
+      padding: 15px;
+      border-radius: 10px;
+    }
+
+    table {
+      width: 100%;
+      background-color: rgba(0, 0, 0, 0.6);
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+
+    th, td {
+      border: 1px solid #fff;
+      padding: 10px;
+      text-align: center;
+      color: #fff;
+    }
+
+    th {
+      background-color: #006666;
+    }
+
+    img {
+      width: 100px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Aylin Camila López Vázquez - Grupo 202 </h1>
+
+  <h2>La basura como un problema</h2>
+
+  <p>
+    En mi casa, la basura se acumula rápidamente porque no tenemos una buena separación de residuos. 
+    En la comunidad, muchas personas tiran la basura en lugares no permitidos, lo que contamina el ambiente. 
+    A nivel país, el problema es grave porque no hay suficientes campañas de concientización ni políticas efectivas. 
+    Debemos actuar ya para reducir la basura, reciclar más y proteger nuestro planeta.
+  </p>
+
+  <table>
+    <tr>
+      <th>Causa</th>
+      <th>Solución Propuesta</th>
+      <th>Imagen Alusiva</th>
+    </tr>
+    <tr>
+      <td>Falta de cultura del reciclaje</td>
+      <td>Campañas educativas en escuelas y medios</td>
+      <td><img src="reciclaje.jpg" alt="Reciclaje"></td>
+    </tr>
+    <tr>
+      <td>Consumo excesivo de plásticos</td>
+      <td>Promover el uso de materiales biodegradables</td>
+      <td><img src="plastico.jpg" alt="Plásticos"></td>
+    </tr>
+    <tr>
+      <td>Mal manejo de residuos domésticos</td>
+      <td>Instalar contenedores para separar basura</td>
+      <td><img src="contenedor.jpg" alt="Contenedor"></td>
+    </tr>
+  </table>
+
+</body>
+</html>
